@@ -28,11 +28,58 @@
   </url>
   
   <url>
+    <loc>http://yi086.github.io/posts/another-post/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yi086.github.io/categories/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/categories/configuration/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/tags/example/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/categories/example/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/tags/hugo/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://yi086.github.io/tags/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/tags/toml/</loc>
+    <lastmod>2014-09-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/tags/blog/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/categories/hello/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/posts/hello-hugo/</loc>
+    <lastmod>2014-09-01T00:00:00+00:00</lastmod>
   </url>
   
 </urlset>
