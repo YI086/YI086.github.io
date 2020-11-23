@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Samuel L. Jackson on My New Hugo Site</title>
+    <link>http://yi086.github.io/actors/samuel-l.-jackson/</link>
+    <description>Recent content in Samuel L. Jackson on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 19:51:21 +0900</lastBuildDate><atom:link href="http://yi086.github.io/actors/samuel-l.-jackson/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>B</title>
+      <link>http://yi086.github.io/posts/b/</link>
+      <pubDate>Sun, 22 Nov 2020 19:51:21 +0900</pubDate>
+      
+      <guid>http://yi086.github.io/posts/b/</guid>
+      <description>映画アンブレイカブル - Wikipedia についてです。</description>
+    </item>
+    
+    <item>
+      <title>Unbreakable</title>
+      <link>http://yi086.github.io/posts/unbreakable/</link>
+      <pubDate>Wed, 01 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://yi086.github.io/posts/unbreakable/</guid>
+      <description>映画アンブレイカブル - Wikipedia についてです。</description>
+    </item>
+    
+  </channel>
+</rss>

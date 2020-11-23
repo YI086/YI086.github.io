@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Actors on My New Hugo Site</title>
+    <link>http://yi086.github.io/actors/</link>
+    <description>Recent content in Actors on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 22 Nov 2020 19:51:21 +0900</lastBuildDate><atom:link href="http://yi086.github.io/actors/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bruce Willis</title>
+      <link>http://yi086.github.io/actors/bruce-willis/</link>
+      <pubDate>Sun, 22 Nov 2020 19:51:21 +0900</pubDate>
+      
+      <guid>http://yi086.github.io/actors/bruce-willis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Samuel L. Jackson</title>
+      <link>http://yi086.github.io/actors/samuel-l.-jackson/</link>
+      <pubDate>Sun, 22 Nov 2020 19:51:21 +0900</pubDate>
+      
+      <guid>http://yi086.github.io/actors/samuel-l.-jackson/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bill Murray</title>
+      <link>http://yi086.github.io/actors/bill-murray/</link>
+      <pubDate>Thu, 02 Oct 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://yi086.github.io/actors/bill-murray/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

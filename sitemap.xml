@@ -3,12 +3,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://yi086.github.io/posts/9/</loc>
-    <lastmod>2020-11-22T18:20:35+09:00</lastmod>
+    <loc>http://yi086.github.io/actors/</loc>
+    <lastmod>2020-11-22T19:51:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/posts/b/</loc>
+    <lastmod>2020-11-22T19:51:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/actors/bruce-willis/</loc>
+    <lastmod>2020-11-22T19:51:21+09:00</lastmod>
   </url>
   
   <url>
     <loc>http://yi086.github.io/posts/</loc>
+    <lastmod>2020-11-22T19:51:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/actors/samuel-l.-jackson/</loc>
+    <lastmod>2020-11-22T19:51:21+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/posts/a/</loc>
+    <lastmod>2020-11-22T19:51:04+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/posts/9/</loc>
     <lastmod>2020-11-22T18:20:35+09:00</lastmod>
   </url>
   
@@ -73,6 +98,21 @@
   </url>
   
   <url>
+    <loc>http://yi086.github.io/actors/bill-murray/</loc>
+    <lastmod>2014-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/posts/moonrise-kingdom/</loc>
+    <lastmod>2014-10-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/posts/unbreakable/</loc>
+    <lastmod>2014-10-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://yi086.github.io/posts/another-post/</loc>
     <lastmod>2014-09-02T00:00:00+00:00</lastmod>
   </url>
@@ -125,6 +165,10 @@
   <url>
     <loc>http://yi086.github.io/posts/hello-hugo/</loc>
     <lastmod>2014-09-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://yi086.github.io/projects/</loc>
   </url>
   
 </urlset>
