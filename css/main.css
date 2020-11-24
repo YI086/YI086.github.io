@@ -280,10 +280,10 @@ img {
   .navbar-custom .nav .navlinks-container {
     text-align: center;
   }
-  .navbar-custom .nav .navlinks-container:hover {
+  .navbar-custom .nav .navlinks-container.show-children {
     background: #eee;
   }
-  .navbar-custom .nav .navlinks-container:hover .navlinks-children {
+  .navbar-custom .nav .navlinks-container.show-children .navlinks-children {
     display: block;
   }
   .navbar-custom .nav .navlinks-children {
